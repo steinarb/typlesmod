@@ -8,7 +8,6 @@
   </parent>
   <groupId>no.priv.bang.typlesmod</groupId>
   <artifactId>editor</artifactId>
-  <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>editor</name>
   <description>Top POM for the graphical editor client side of the typeless graphical editor framework.</description>
